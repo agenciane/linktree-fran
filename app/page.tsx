@@ -38,21 +38,18 @@ const siteData = {
     title: "Portfolio",
     description: "Image gallery showcasing the salon’s work",
     images: [
-      {
-        id: 1,
-        alt: "Premium blonde hair result",
-        src: "/portfolio-1.png"
-      },
-      {
-        id: 2,
-        alt: "Sophisticated hairstyle for special events",
-        src: "/portfolio-2.png"
-      },
-      {
-        id: 3,
-        alt: "High-end hair treatment",
-        src: "/portfolio-3.png"
-      }
+      { id: 1, alt: "Portfolio Image 1", src: "/novasRobson/04367f26-e7bf-476c-928b-47c9c1f4e662.jpeg" },
+      { id: 2, alt: "Portfolio Image 2", src: "/novasRobson/0b8d3b95-f1f7-4780-b0a3-8c8771a1bbd8.jpeg" },
+      { id: 3, alt: "Portfolio Image 3", src: "/novasRobson/23d8f358-6833-43c7-9658-10c5b5cc3a53.jpeg" },
+      { id: 4, alt: "Portfolio Image 4", src: "/novasRobson/3933c38e-7d55-47ac-b8f7-2d758ae2f73e.jpeg" },
+      { id: 5, alt: "Portfolio Image 5", src: "/novasRobson/551cbc59-c123-4992-8c54-b5145a8aeff0.jpeg" },
+      { id: 6, alt: "Portfolio Image 6", src: "/novasRobson/8d99330a-f37b-462e-8508-0625f55a7f7a.jpeg" },
+      { id: 7, alt: "Portfolio Image 7", src: "/novasRobson/97b3073a-c6ce-4766-8f33-da372f622ecd.jpeg" },
+      { id: 8, alt: "Portfolio Image 8", src: "/novasRobson/9847559e-3030-4991-98e8-f0529448b917.jpeg" },
+      { id: 9, alt: "Portfolio Image 9", src: "/novasRobson/addc8b57-4438-4065-a5ad-eaecb58414e1.jpeg" },
+      { id: 10, alt: "Portfolio Image 10", src: "/novasRobson/bd94c723-31aa-4b1c-88e4-26cce16d8e11.jpeg" },
+      { id: 11, alt: "Portfolio Image 11", src: "/novasRobson/c812e59a-1c36-4117-a660-488f0f08f73b.jpeg" },
+      { id: 12, alt: "Portfolio Image 12", src: "/novasRobson/d5b85951-89ae-433d-83bf-6bb3b72af66c.jpeg" }
     ]
   },
   footer: {
@@ -70,10 +67,7 @@ export default function Home() {
       </div>
 
       <div className="z-10 w-full max-w-3xl flex flex-col items-center px-4">
-        <Header 
-          title={siteData.header.title} 
-          subtitle={siteData.header.subtitle} 
-        />
+        <Header />
         
         <LinkTree links={siteData.links} />
         
