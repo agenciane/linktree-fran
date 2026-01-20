@@ -62,7 +62,7 @@ const siteData = {
       { id: 5, alt: "Portfolio Image 5", src: "/novasRobson/IMG_8029.JPG" },
       { id: 6, alt: "Portfolio Image 6", src: "/novasRobson/IMG_8095.JPG" },
       { id: 7, alt: "Portfolio Image 7", src: "/novasRobson/IMG_8862.JPG" },
-      { id: 8, alt: "Portfolio Image 8", src: "/novasRobson/IMG_9192 (1).JPG" },
+      { id: 8, alt: "Portfolio Image 8", src: "/novasRobson/IMG_9192.JPG" },
       { id: 9, alt: "Portfolio Image 9", src: "/novasRobson/IMG_9993.JPG" },
       { id: 10, alt: "Portfolio Image 10", src: "/novasRobson/IMG_9996.JPG" }
     ]
