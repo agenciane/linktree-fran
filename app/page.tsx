@@ -14,32 +14,32 @@ const siteData = {
     {
       id: 1,
       text: "O salão",
-      url: "https://example.com/booking"
+      url: "https://creativebeauty.com.br/"
     },
     {
       id: 2,
       text: "Cursos",
-      url: "https://example.com/services"
+      url: "https://wa.me/551197237917"
     },
     {
       id: 3,
       text: "Realizar Agendamento",
-      url: "https://wa.me/5500000000000"
+      url: "https://wa.me/5511966440761"
     },
     {
       id: 4,
       text: "RS Academy ",
-      url: "https://wa.me/5500000000000"
+      url: "https://wa.me/5511966440761"
     },
     {
       id: 5,
       text: "Suporte Curso",
-      url: "https://wa.me/5500000000000"
+      url: "https://wa.me/554187218018"
     },
     {
       id: 6,
       text: "Parcerias",
-      url: "https://wa.me/5500000000000"
+      url: "https://wa.me/5511971882629"
     }
   ],
   aboutSection: {
