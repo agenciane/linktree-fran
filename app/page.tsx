@@ -48,7 +48,7 @@ const siteData = {
      "Robson Souza hair Style, visagista, empresário e educador, com mais de 20 anos de atuação no mercado da beleza.",
      "Fundador do Creative Beauty by Robson Souza, é reconhecido por seu trabalho em coloração, loiros e imagem profissional, atendendo um público exigente e de alto padrão.",
      "Além da atuação no salão, Robson também se destaca como mentor de profissionais da beleza, desenvolvendo formações e mentorias focadas em técnica, posicionamento e crescimento profissional.",
-     "Sua trajetória é marcada por excelência, visão estratégica e construção de autoridade, consolidando seu nome como referência no setor."
+     "Sua trajetória é marcada por excelência, visão estratégica e construção de autoridade, consolidando seu nome como referência no setor.",
     ]
   },
   portfolioSection: {
