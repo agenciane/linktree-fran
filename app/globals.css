@@ -3,8 +3,8 @@
 :root {
   --background: #000000;
   --foreground: #FFFFFF;
-  --accent: #C9A24D;
-  --muted: #777777;
+  --accent: #FFFFFF;
+  --muted: #888888;
 }
 
 @theme inline {
@@ -12,7 +12,7 @@
   --color-foreground: var(--foreground);
   --color-accent: var(--accent);
   --color-muted: var(--muted);
-  --font-sans: var(--font-geist-sans), "Times New Roman", serif; /* Fallback to serif for luxury feel if geist not available, or I should add a serif font */
+  --font-sans: var(--font-geist-sans), Arial, sans-serif;
 }
 
 body {
@@ -24,7 +24,7 @@ body {
 
 /* Custom luxury utilities */
 .luxury-gradient {
-  background: linear-gradient(135deg, #C9A24D 0%, #E6C786 50%, #C9A24D 100%);
+  background: linear-gradient(135deg, #FFFFFF 0%, #CCCCCC 50%, #FFFFFF 100%);
 }
 
 .glass-panel {

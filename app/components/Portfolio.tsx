@@ -15,7 +15,7 @@ interface PortfolioProps {
 export default function Portfolio({ title, description, images }: PortfolioProps) {
   return (
     <section className="w-full max-w-2xl px-6 mb-16 text-center">
-      <h2 className="text-2xl font-serif mb-2 text-accent">{title}</h2>
+      <h2 className="text-2xl font-sans font-medium mb-2 text-accent">{title}</h2>
       <p className="text-xs text-muted uppercase tracking-widest mb-8">{description}</p>
       
       <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
