@@ -3,6 +3,7 @@ import LinkTree from './components/LinkTree';
 import AboutSection from './components/AboutSection';
 import Portfolio from './components/Portfolio';
 import Footer from './components/Footer';
+import Image from 'next/image';
 
 // Data from JSON spec
 const siteData = {
@@ -85,6 +86,7 @@ export default function Home() {
         <Header />
         
         <LinkTree links={siteData.links} />
+        <Image src={'/robson.webp'} alt={'robson'} width={1024} height={1024} />
         
         <AboutSection 
           title={siteData.aboutSection.title} 
