@@ -86,7 +86,7 @@ export default function Home() {
         <Header />
         
         <LinkTree links={siteData.links} />
-        <Image src={'/JRS06401-Photoroom.webp'} alt={'robson'} width={1024} height={1024} />
+        <Image src={'/JRS06429-Photoroom.webp'} alt={'robson'} width={1024} height={1024} />
         
         <AboutSection 
           title={siteData.aboutSection.title} 
