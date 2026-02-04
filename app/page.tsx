@@ -11,25 +11,20 @@ const siteData = {
     title: "Beauty Salon Name",
     subtitle: "Beauty, exclusivity, and sophistication in every detail"
   },
-  links: [
-    {
+  links: [    
+     {
       id: 1,
-      text: "O salão",
-      url: "https://creativebeauty.com.br/"
+      text: "Creative Beauty Agendamento",
+      url: "https://wa.me/5511972379176"
     },
     {
       id: 2,
-      text: "Cursos",
+      text: "Whatsapp Cursos",
       url: "https://wa.me/551197237917"
-    },
-    {
-      id: 3,
-      text: "Realizar Agendamento",
-      url: "https://wa.me/5511966440761"
-    },
+    },   
     {
       id: 4,
-      text: "RS Academy ",
+      text: "RS Academy/curso",
       url: "https://wa.me/5511966440761"
     },
     {
