@@ -14,7 +14,7 @@ const siteData = {
   links: [    
      {
       id: 1,
-      text: "Creative Beauty Agendamento",
+      text: "Creative Beauty / Agendamento",
       url: "https://wa.me/5511972379176"
     },
     {
