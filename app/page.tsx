@@ -25,7 +25,7 @@ const siteData = {
     {
       id: 4,
       text: "RS Academy/curso",
-      url: "https://wa.me/5511966440761"
+      url: "https://wa.me/5511968665280"
     },
     {
       id: 5,
