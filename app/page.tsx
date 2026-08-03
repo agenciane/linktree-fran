@@ -19,6 +19,11 @@ const siteData = {
     },
     {
       id: 2,
+      text: "Consultoria de visagismo",
+      url: "https://wa.me/551197237917?text=Quero%20saber%20mais%20sobre%20visagismo" 
+    },
+    {
+      id: 3,
       text: "Whatsapp Cursos",
       url: "https://wa.me/551197237917"
     },   
