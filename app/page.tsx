@@ -40,7 +40,7 @@ const siteData = {
     {
       id: 6,
       text: "Parcerias",
-      url: "https://wa.me/5511971882629"
+      url: "mailto:robson_souza@donnagency.com"
     }
   ],
   aboutSection: {
